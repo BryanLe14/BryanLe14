@@ -23,7 +23,7 @@
 - https://physics.info/color/
 - [Project Gutenberg Australia](https://gutenberg.net.au/)
 - [The Works of Plato](https://webs.ucm.es/info/diciex/gente/agf/plato/The_Dialogues_of_Plato_v0.1.pdf)
-- [Quota Internals](chrome://quota-internals/)
+- [Quota Internals (chrome://quota-internals/)](chrome://quota-internals/)
 - [Alphabets](https://abstractmath.org/MM/MMAlphabets.htm)
 - [ABC Music Notation](http://trillian.mit.edu/~jc/music/abc/doc/ABCtutorial.html)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
